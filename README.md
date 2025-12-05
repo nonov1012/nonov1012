@@ -13,7 +13,7 @@
 ░██    ░██  ░███████  ░██    ░██  ░███████     ░███    ░██████   ░████   ░██████ ░████████ 
                                                                                            
 ```
-<div class="center">
+<div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/nonov1012?style=for-the-badge&logo=github&logoColor=white&color=171515)](https://github.com/TarzanHR)
 [![Profile Views](https://komarev.com/ghpvc/?username=nonov1012&style=for-the-badge&color=blueviolet)](https://github.com/TarzanHR)
