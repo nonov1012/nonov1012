@@ -13,9 +13,10 @@
 ░██    ░██  ░███████  ░██    ░██  ░███████     ░███    ░██████   ░████   ░██████ ░████████ 
                                                                                            
 ```
-
+<div class="center">
 [![GitHub followers](https://img.shields.io/github/followers/nonov1012?style=for-the-badge&logo=github&logoColor=white&color=171515)](https://github.com/TarzanHR)
 [![Profile Views](https://komarev.com/ghpvc/?username=nonov1012&style=for-the-badge&color=blueviolet)](https://github.com/TarzanHR)
+</div>
 
 ## 💫 About Me:
 Étudiant en 3ème année de BUT Informatique à l'IUT Littoral Côte d'Opale, je suis passionné par le développement logiciel et les infrastructures DevOps.
