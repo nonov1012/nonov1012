@@ -36,3 +36,23 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nonov1012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<div align="center">
+
+## 🌐 RETROUVEZ-MOI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noa-voiturier-875794219/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nonov1012@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://62.72.18.63:10037)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."*
+
+![snake gif](https://github.com/nonov1012/nonov1012/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
