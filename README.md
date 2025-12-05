@@ -1,4 +1,7 @@
-> Cherche stage de 14 à 16 semaines pour du développement informatique.
+> [!IMPORTANT]
+> # Cherche stage
+> 
+> A la recherche d'un stage de fin d'année de 14 à 16 semaines pour du développement informatique. 
 
 ```
                               __  ___  __ ___  
