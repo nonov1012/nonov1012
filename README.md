@@ -23,6 +23,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nonov1012&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=nonov1012&theme=dark&hide_border=false)<br/>
 ![](https://raw.githubusercontent.com/nonov1012/stat-github/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nonov1012/stat-github/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonov1012&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
