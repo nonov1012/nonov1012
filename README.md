@@ -1,5 +1,14 @@
 > Cherche stage de 14 à 16 semaines pour du développement informatique.
 
+```
+                              __  ___  __ ___  
+                             /_ |/ _ \/_ |__ \ 
+  _ __   ___  _ __   _____   _| | | | || |  ) |
+ | '_ \ / _ \| '_ \ / _ \ \ / / | | | || | / / 
+ | | | | (_) | | | | (_) \ V /| | |_| || |/ /_ 
+ |_| |_|\___/|_| |_|\___/ \_/ |_|\___/ |_|____|
+```
+
 # 💫 About Me:
 Bonjour, je suis un jeune developpeur. J'ai 19 ans et je suis étudiant en 3eme années de BUT Informatique.<br>
 
