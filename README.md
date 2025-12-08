@@ -49,10 +49,10 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."*
 
 ![snake gif](https://github.com/nonov1012/nonov1012/blob/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 </div>
